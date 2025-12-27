@@ -43,7 +43,7 @@ apple-web-clone/
 │   ├── script.js       # General scripts (sticky navbar)
 │   ├── script1.js      # Animation scripts for section 1
 │   └── script2.js      # Animation scripts for section 2
-├── apple.html          # Main HTML file
+├── index.html          # Main HTML file
 └── README.md           # This file
 ```
 
