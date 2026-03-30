@@ -80,7 +80,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 2.  Create a new branch for your feature or bug fix.
 3.  Make your changes and commit them with descriptive messages.
 4.  Submit a pull request to the main branch.
-
+---
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
